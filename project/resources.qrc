@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>images/ship.png</file>
+    <file>images/enemy.png</file>
+    <file>images/bullet.png</file>
+    <file>images/background.png</file>
+    <file>sounds/shoot.wav</file>
+  </qresource>
+</RCC>
