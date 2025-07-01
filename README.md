@@ -1,5 +1,5 @@
 Very basic application for space ship games (currently it's too complex in my opinion). 
-To install it:
+To install it (from the project folder):
 qmake 
 make 
 
